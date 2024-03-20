@@ -1,1 +1,9 @@
-# sex_differences_cancer
+The impact of sex on DNA methylation across nine cancer types
+=
+**Abstract**  
+Many types of non-reproductive cancer exhibit strong sex differences, but whether the extent of such sex differences is reorganized during tumorigenesis remains uncharacterized. To address this issue, we conducted a comprehensive examination of DNA methylation (DNAm) regulation and its sex-specific effects on nine types of cancers from The Cancer Genome Atlas, employing a case-control strategy. Comparative analysis with matched controls revealed a predominant attenuation of sex differences in DNAm across all nine types of cancers, yielding sex differences that are more epigenetically homogeneous during cancer progression. Comparing the correlation and magnitude relationships of cancer-related DNAm changes between sexes revealed highly correlated effect sizes and significant differences in the magnitude of DNAm changes, termed “amplification”. The amplification effect of DNAm emerged as the primary driver of sex differences in cancers. The integration of results from sex-stratified analyses of the methylome and transcriptome underscored that sex-amplified DNAm differences in cancer could influence the expression of target genes, leading to consistent sex-biased differential expression (e.g., GATA2 and ZBP1). Among the pathways related to sex-amplification, vasculature development, epithelial cell differentiation, and myeloid cell differentiation were linked to genes regulated by male-amplifiers, whereas cell communication and sprouting angiogenesis were tied to genes regulated by female-amplifiers. In conclusion, our findings emphasize that the extensive attenuation of sex differences in DNAm across cancers highlights amplification effects as the primary driver of sex-related influences on malignancies  
+
+Citation
+=
+If you use anything in this repository please cite:
+
