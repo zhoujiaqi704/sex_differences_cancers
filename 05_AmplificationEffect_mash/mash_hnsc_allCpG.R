@@ -1,5 +1,5 @@
 ###code modified from https://github.com/harpak-lab/amplification_gxsex
-#!/project/usr/limiao/R-4.2.0/bin/Rscript
+
 #mash
 rootdir="./mash"
 setwd(rootdir)
