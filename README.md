@@ -7,3 +7,6 @@ Citation
 =
 If you use anything in this repository please cite:
 
+Data availability
+=
+All data including the main text and supplementary materials are available in the [web]
