@@ -40,8 +40,14 @@ Sex differences exist in numerous non-reproductive cancers, but whether the exte
 
 ## Data availability
 
-All data, including the main text and supplementary materials, are available at [insert location]
+All data, including the main text and supplementary materials, are available at xxx
 
 ## Citation
 
-If you use anything in this repository please cite: xxx
+If you use anything in this repository please cite:<br />
+
+Jiaqi Zhou, Miao Li, Yu Chen, Shangzi Wang, Danke Wang, and Xingdong Chen*. The impact of sex on DNA methylation across nine cancer types. 2024<br />
+
+*Corresponding author<br />
+
+DOI: xxx
