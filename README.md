@@ -1,4 +1,4 @@
-The impact of sex on DNA methylation across nine cancer types
+Attenuated sex-related DNA methylation differences in cancer highlight the magnitude bias mediating existing disparities
 =
 
 ## Script summary
@@ -45,7 +45,7 @@ The supplementary tables are available at [Zenodo](https://zenodo.org/records/11
 
 If you use anything in this repository please cite:<br />
 
-Jiaqi Zhou, Miao Li, Yu Chen, Shangzi Wang, Danke Wang, Chen Suo, and Xingdong Chen*. The impact of sex on DNA methylation across nine cancer types. 2024<br />
+Jiaqi Zhou, Miao Li, Yu Chen, Shangzi Wang, Danke Wang, Chen Suo, and Xingdong Chen*. Attenuated sex-related DNA methylation differences in cancer highlight the magnitude bias mediating existing disparities. 2024<br />
 
 *Corresponding author<br />
 
