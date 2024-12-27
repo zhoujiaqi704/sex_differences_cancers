@@ -45,8 +45,4 @@ The supplementary tables are available at [Zenodo](https://zenodo.org/records/11
 
 If you use anything in this repository please cite:<br />
 
-Jiaqi Zhou, Miao Li, Yu Chen, Shangzi Wang, Danke Wang, Chen Suo, and Xingdong Chen*. Attenuated sex-related DNA methylation differences in cancer highlight the magnitude bias mediating existing disparities. 2024<br />
-
-*Corresponding author<br />
-
-DOI: xxx
+Zhou, J., Li, M., Chen, Y. et al. Attenuated sex-related DNA methylation differences in cancer highlight the magnitude bias mediating existing disparities. Biol Sex Differ 15, 106 (2024). https://doi.org/10.1186/s13293-024-00682-4<br />
